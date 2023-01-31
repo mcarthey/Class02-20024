@@ -1,0 +1,11 @@
+﻿TicketID,Summary,Status,Priority,Submitter,Assigned,Watching
+1,This is a bug ticket,Open,High,Drew Kjell,Jane Doe,Drew Kjell|John Smith|Bill Jones
+
+arr[0] = TicketID (1)
+arr[1] = Summary (This is a bug ticket)
+arr[2] = Status (Open)
+arr[3] = Priority (High)
+arr[4] = Submitter (Drew Kjell)
+arr[5] = Assigned (Jane Doe)
+arr[6] = Watching (Drew Kjell|John Smith|Bill Jones) <- variable # of people
+
